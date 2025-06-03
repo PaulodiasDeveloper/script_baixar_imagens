@@ -103,7 +103,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
-## Contato
-
-Para dúvidas ou sugestões, abra uma issue no repositório ou entre em contato com [seu-email@example.com].
